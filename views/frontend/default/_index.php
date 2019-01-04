@@ -20,7 +20,6 @@ $this->params['breadcrumbs'][] = $this->title; ?>
                           <div class="panel-body"><?php echo $value["duyuru"]; ?><hr /><?php echo $value["tarih"];?></div>
                       <div class="panel-footer"><b><?php echo $value["ad"]." ".$value["soyad"]; ?></b></div>
                      </div>
-
                     </div>                                          
 
                 
